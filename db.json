@@ -1,0 +1,1669 @@
+{
+  "clients": [
+    {
+      "id": 2,
+      "name": "Sapient Corporation",
+      "clientNumber": 180,
+      "addressLineOne": "7131 Dartmouth Street",
+      "addressLineTwo": "",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "postalCode": "02116",
+      "country": "US",
+      "phone": "",
+      "status": "Active",
+      "sector": "Federal",
+      "sectorSaveValue": "fed"
+    },
+    {
+      "id": 3,
+      "name": "Wood Mackenzie Limited",
+      "clientNumber": 209,
+      "addressLineOne": "Exchange Place 2",
+      "addressLineTwo": "5 Semple Street",
+      "city": "Toronto",
+      "state": "Edinburgh",
+      "postalCode": "EH3 8BL",
+      "country": "UK",
+      "phone": "44 (0)131 243 4400 ",
+      "status": "Active",
+      "sector": "Distribution",
+      "sectorSaveValue": "dist"
+    },
+    {
+      "id": 4,
+      "name": "The Yankee Candle Company, Inc.",
+      "clientNumber": 231,
+      "addressLineOne": "27 Yankee Candle Way",
+      "addressLineTwo": "",
+      "city": "South Deerfield",
+      "state": "MA",
+      "postalCode": "01373",
+      "country": "US",
+      "phone": "",
+      "status": "Inactive",
+      "sector": "",
+      "sectorSaveValue": ""
+    },
+    {
+      "id": 5,
+      "name": "Five Star Quality Care, Inc.",
+      "clientNumber": 262,
+      "addressLineOne": "400 Centre St.",
+      "addressLineTwo": "",
+      "city": "Newton",
+      "state": "MA",
+      "postalCode": "02458",
+      "country": "US",
+      "phone": "",
+      "status": "Active",
+      "sector": "Federal",
+      "sectorSaveValue": "fed"
+    },
+    {
+      "id": 6,
+      "name": "Wellness & Prevention, Inc. (fka HealthMedia)",
+      "clientNumber": 349,
+      "addressLineOne": "130 S First Street",
+      "addressLineTwo": "",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "postalCode": "48104",
+      "country": "US",
+      "phone": "734-623-0000",
+      "status": "Active",
+      "sector": "",
+      "sectorSaveValue": ""
+    },
+    {
+      "id": 7,
+      "name": "Edwards Lifesciences, LLC",
+      "clientNumber": 381,
+      "addressLineOne": "One Edwards Way",
+      "addressLineTwo": "",
+      "city": "Irvine",
+      "state": "CA",
+      "postalCode": "92614",
+      "country": "US",
+      "phone": "",
+      "status": "Active",
+      "sector": "Federal",
+      "sectorSaveValue": "fed"
+    },
+    {
+      "id": 8,
+      "name": "Baba Feta Cheese",
+      "clientNumber": "82",
+      "addressLineOne": null,
+      "addressLineTwo": null,
+      "city": null,
+      "state": null,
+      "postalCode": null,
+      "country": null,
+      "phone": null,
+      "status": "Inactive",
+      "sector": "Federal",
+      "sectorSaveValue": "fed"
+    },
+    {
+      "id": 9,
+      "name": "LaLa",
+      "clientNumber": "243",
+      "addressLineOne": null,
+      "addressLineTwo": null,
+      "city": null,
+      "state": null,
+      "postalCode": null,
+      "country": null,
+      "phone": null,
+      "status": "Active",
+      "sector": "Distribution",
+      "sectorSaveValue": "dist"
+    },
+    {
+      "id": 10,
+      "name": "LaLa",
+      "clientNumber": "243",
+      "addressLineOne": null,
+      "addressLineTwo": null,
+      "city": null,
+      "state": null,
+      "postalCode": null,
+      "country": null,
+      "phone": null,
+      "status": "Active",
+      "sector": "Distribution",
+      "sectorSaveValue": "dist"
+    },
+    {
+      "id": 11,
+      "name": "LaLa",
+      "clientNumber": "243",
+      "addressLineOne": null,
+      "addressLineTwo": null,
+      "city": null,
+      "state": null,
+      "postalCode": null,
+      "country": null,
+      "phone": null,
+      "status": "Active",
+      "sector": "Distribution",
+      "sectorSaveValue": "dist"
+    },
+    {
+      "id": 21,
+      "name": "CTV Television Network",
+      "clientNumber": "244",
+      "addressLineOne": null,
+      "addressLineTwo": null,
+      "city": null,
+      "state": null,
+      "postalCode": null,
+      "country": null,
+      "phone": null,
+      "status": "Active",
+      "sector": "Distribution",
+      "sectorSaveValue": "dist"
+    },
+    {
+      "id": 144,
+      "name": "Accenture",
+      "clientNumber": "245",
+      "addressLineOne": null,
+      "addressLineTwo": null,
+      "city": null,
+      "state": null,
+      "postalCode": null,
+      "country": null,
+      "phone": null,
+      "status": "Active",
+      "sector": "Distribution",
+      "sectorSaveValue": "dist"
+    }
+  ],
+  "mastercontractclients": [
+    {
+      "id": 0,
+      "name": "CTV Television Network",
+      "clientNumber": 21,
+      "masterContractNumber": "21-SC",
+      "effectiveDate": "10/01/2001",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": 1,
+      "name": "Accenture",
+      "clientNumber": 144,
+      "masterContractNumber": "144-SC",
+      "effectiveDate": "10/01/2001",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": 2,
+      "name": "CTV Television Network",
+      "clientNumber": 21,
+      "masterContractNumber": "144-SC",
+      "effectiveDate": "10/01/2001",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": 3,
+      "name": "Sapient Corporation",
+      "clientNumber": 180,
+      "masterContractNumber": "144-SC",
+      "effectiveDate": "10/01/2001",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": 4,
+      "name": "The Yankee Candle Company, Inc.",
+      "clientNumber": 231,
+      "masterContractNumber": "144-SC",
+      "effectiveDate": "10/01/2001",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": 5,
+      "name": "CTV Television Network",
+      "clientNumber": 21,
+      "masterContractNumber": "144-SC",
+      "effectiveDate": "10/01/2001",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": 6,
+      "name": "CTV Television Network",
+      "clientNumber": 21,
+      "masterContractNumber": "144-SC",
+      "effectiveDate": "10/01/2001",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": 7,
+      "name": "CTV Television Network",
+      "clientNumber": 21,
+      "masterContractNumber": "144-SC",
+      "effectiveDate": "10/01/2001",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": 8,
+      "name": "CTV Television Network",
+      "clientNumber": 21,
+      "masterContractNumber": "144-SC",
+      "effectiveDate": "10/01/2001",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": 9,
+      "name": "CTV Television Network",
+      "clientNumber": 21,
+      "masterContractNumber": "144-SC",
+      "effectiveDate": "10/01/2001",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": 10,
+      "name": "CTV Television Network",
+      "clientNumber": 21,
+      "masterContractNumber": "144-SC",
+      "effectiveDate": "10/01/2001",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": 11,
+      "name": "Five Star Quality Care, Inc.",
+      "clientNumber": 262,
+      "masterContractNumber": "22-SC",
+      "effectiveDate": "10/01/2001",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    }
+  ],
+  "mastercontract": [
+    {
+      "id": 0,
+      "name": "CTV Television Network",
+      "clientNumber": 21,
+      "masterContractNumber": "21-SC",
+      "masterContractType": "Subcontract",
+      "masterContractTypeSaveValue": "sub",
+      "masterContractId": 1360,
+      "effectiveDate": "10/01/2001",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": "2017-07-27T04:00:00.000Z"
+    },
+    {
+      "id": "1",
+      "name": "CTV Television Network",
+      "clientNumber": 21,
+      "masterContractNumber": "21-SC2",
+      "masterContractType": "Subcontract",
+      "masterContractTypeSaveValue": "sub",
+      "masterContractId": 1360,
+      "effectiveDate": "10/01/2002",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": "3",
+      "name": "CTV Television Network",
+      "clientNumber": 21,
+      "masterContractNumber": "21-SC3",
+      "masterContractType": "Subcontract",
+      "masterContractTypeSaveValue": "sub",
+      "masterContractId": 1360,
+      "effectiveDate": "2017-08-24T04:00:00.000Z",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": "BysQB6vL-",
+      "name": null,
+      "clientNumber": null,
+      "masterContractNumber": "21-SC4",
+      "masterContractType": "Purchase Order",
+      "masterContractTypeSaveValue": "po",
+      "masterContractId": 1360,
+      "effectiveDate": "2017-07-27T04:00:00.000Z",
+      "initialTerm": null,
+      "status": null,
+      "cancelDate": "2017-08-30T04:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "name": "Five Star Quality Care, Inc.",
+      "clientNumber": 262,
+      "masterContractNumber": "22-SC",
+      "masterContractType": "Subcontract",
+      "masterContractTypeSaveValue": "sub",
+      "masterContractId": 1360,
+      "effectiveDate": "2017-08-24T04:00:00.000Z",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": "6",
+      "name": "Five Star Quality Care, Inc.",
+      "clientNumber": 262,
+      "masterContractNumber": "22-SC1",
+      "masterContractType": "Subcontract",
+      "masterContractTypeSaveValue": "sub",
+      "masterContractId": 1360,
+      "effectiveDate": "2017-08-24T04:00:00.000Z",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": "7",
+      "name": "Five Star Quality Care, Inc.",
+      "clientNumber": 262,
+      "masterContractNumber": "22-SC2",
+      "masterContractType": "Subcontract",
+      "masterContractTypeSaveValue": "sub",
+      "masterContractId": 1360,
+      "effectiveDate": "2017-08-24T04:00:00.000Z",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": "8",
+      "name": "Five Star Quality Care, Inc.",
+      "clientNumber": 262,
+      "masterContractNumber": "22-SC3",
+      "masterContractType": "Subcontract",
+      "masterContractTypeSaveValue": "sub",
+      "masterContractId": 1360,
+      "effectiveDate": "2017-08-24T04:00:00.000Z",
+      "initialTerm": "1 Year",
+      "status": "Active",
+      "cancelDate": ""
+    },
+    {
+      "id": "HklORzJqb",
+      "name": null,
+      "clientNumber": null,
+      "masterContractNumber": "21-SC3",
+      "masterContractType": "Purchase Order",
+      "masterContractTypeSaveValue": "po",
+      "masterContractId": null,
+      "effectiveDate": "2017-09-14T04:00:00.000Z",
+      "initialTerm": null,
+      "status": null,
+      "cancelDate": null
+    }
+  ],
+  "sectors": [
+    {
+      "saveValue": "dist",
+      "displayValue": "Distribution",
+      "description": "Distribution",
+      "sortOrder": 1,
+      "active": true
+    },
+    {
+      "saveValue": "comm",
+      "displayValue": "Communications",
+      "description": "Communications",
+      "sortOrder": 2,
+      "active": true
+    },
+    {
+      "saveValue": "fed",
+      "displayValue": "Federal",
+      "description": "Federal",
+      "sortOrder": 3,
+      "active": true
+    }
+  ],
+  "masterContractTypes": [
+    {
+      "saveValue": "po",
+      "displayValue": "Purchase Order",
+      "description": "Purchase Order",
+      "sortOrder": 1,
+      "active": true
+    },
+    {
+      "saveValue": "ps",
+      "displayValue": "Price Schedule",
+      "description": "Price Schedule",
+      "sortOrder": 2,
+      "active": true
+    },
+    {
+      "saveValue": "sub",
+      "displayValue": "Subcontract",
+      "description": "Subcontract",
+      "sortOrder": 3,
+      "active": true
+    }
+  ],
+  "userStatuss": [
+    {
+      "saveValue": "Active",
+      "displayValue": "Active",
+      "description": "Active",
+      "sortOrder": 1,
+      "active": true
+    },
+    {
+      "saveValue": "Terminated",
+      "displayValue": "Terminated",
+      "description": "Terminated",
+      "sortOrder": 2,
+      "active": true
+    }
+  ],
+  "userRoles": [
+    {
+      "saveValue": "Basic User",
+      "displayValue": "Basic User",
+      "description": "Basic User",
+      "sortOrder": 1,
+      "active": true
+    },
+    {
+      "saveValue": "Biller",
+      "displayValue": "Biller",
+      "description": "Biller",
+      "sortOrder": 2,
+      "active": true
+    },
+    {
+      "saveValue": "Inactive",
+      "displayValue": "Inactive",
+      "description": "Inactive",
+      "sortOrder": 3,
+      "active": true
+    },
+    {
+      "saveValue": "PE",
+      "displayValue": "PE",
+      "description": "Pe",
+      "sortOrder": 4,
+      "active": true
+    },
+    {
+      "saveValue": "PE Manager",
+      "displayValue": "PE Manager",
+      "description": "PE Manager",
+      "sortOrder": 5,
+      "active": true
+    },
+    {
+      "saveValue": "PIM/SolCtr",
+      "displayValue": "PIM/SolCtr",
+      "description": "PIM/SolCtr",
+      "sortOrder": 6,
+      "active": true
+    },
+    {
+      "saveValue": "Super User",
+      "displayValue": "Super User",
+      "description": "Super User",
+      "sortOrder": 7,
+      "active": true
+    }
+  ],
+  "contracts": [
+    {
+      "id": 1,
+      "name": "CTV Television Network",
+      "clientNumber": 21,
+      "contractNumber": "21-SC-1-A1",
+      "contractType": "Task Order",
+      "previousContract": null,
+      "clientUnitName": "Accenture DOI Hosting",
+      "revenueSource": "MRDB",
+      "revenueCategory": "IR-FM-PS-FM (IM)",
+      "acctType": "IBM",
+      "revenueCountry": "US",
+      "closeDate": "10/01/2020",
+      "expirationDate": "10/01/2020",
+      "updateActiveContracts": true,
+      "cancelDate": null,
+      "productGroup": "ERP",
+      "clientType": "First Sale",
+      "icn": "3414046/CFTWZ9R/WM62U",
+      "effectiveDate": "10/01/2001",
+      "oitStatus": "Active",
+      "terminationReason": "Renewal",
+      "terminationClause": "Special",
+      "renewalTerms": "30",
+      "renewalNoticePeriod": "Days",
+      "additionalClauseComments": "Task Orders issued annualy based on govt fiscal year.    Termination Clause Comments    Termination for convience and non-performance.",
+      "disasterRecoveryCommitment": "30",
+      "disasterRecoveryTimeframe": "Days",
+      "disasterRecoveryComments": "Max 24 hour data loss. For the PeopleSoft Financials Production Server its 4 hour recovery and 24 hour data loss.",
+      "manualBilling": "3",
+      "splitBilling": "3",
+      "ATTExcludedDefault": "3",
+      "portfolio": "ERP",
+      "currentContractValue": "$1,0040"
+    },
+    {
+      "id": 2,
+      "name": "CTV Television Network",
+      "clientNumber": 21,
+      "contractNumber": "21-SC-1-A1",
+      "contractType": "Task Order",
+      "previousContract": null,
+      "clientUnitName": "Accenture DOI Hosting",
+      "revenueSource": "MRDB",
+      "revenueCategory": "IR-FM-PS-FM (IM)",
+      "acctType": "IBM",
+      "revenueCountry": "US",
+      "closeDate": "10/01/2020",
+      "expirationDate": "10/01/2020",
+      "updateActiveContracts": true,
+      "cancelDate": null,
+      "terminateActiveContracts": true,
+      "productGroup": "ERP",
+      "clientType": "First Sale",
+      "icn": "3414046/CFTWZ9R/WM62U",
+      "effectiveDate": "10/01/2001",
+      "oitStatus": "Active",
+      "terminationReason": "Renewal",
+      "terminationClause": "Special",
+      "renewalTerms": "30",
+      "renewalNoticePeriod": "Days",
+      "additionalClauseComments": "Task Orders issued annualy based on govt fiscal year.    Termination Clause Comments    Termination for convience and non-performance.",
+      "disasterRecoveryCommitment": "30",
+      "disasterRecoveryTimeframe": "Days",
+      "disasterRecoveryComments": "Max 24 hour data loss. For the PeopleSoft Financials Production Server its 4 hour recovery and 24 hour data loss.",
+      "manualBilling": "3",
+      "splitBilling": "3",
+      "ATTExcludedDefault": "3",
+      "portfolio": "ERP",
+      "currentContractValue": "$1,0040"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "clientNumber": null,
+      "contractNumber": "21-A2",
+      "contractType": null,
+      "previousContract": null,
+      "clientUnitName": null,
+      "revenueSource": null,
+      "revenueCategory": null,
+      "acctType": null,
+      "bccGroup": null,
+      "revenueCountry": null,
+      "closeDate": null,
+      "expirationDate": null,
+      "updateActiveContracts": true,
+      "cancelDate": null,
+      "productGroup": null,
+      "clientType": null,
+      "icn": null,
+      "effectiveDate": "2017-08-10T04:00:00.000Z",
+      "oitStatus": null,
+      "terminationReason": null,
+      "terminationClause": null,
+      "renewalTerms": null,
+      "renewalNoticePeriod": null,
+      "additionalClauseComments": null,
+      "disasterRecoveryCommitment": null,
+      "disasterRecoveryTimeframe": null,
+      "disasterRecoveryComments": null,
+      "manualBilling": "2",
+      "splitBilling": "3",
+      "ATTExcludedDefault": "3",
+      "portfolio": null,
+      "currentContractValue": null
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userId": 101,
+      "emailAddress": "callanj@us.ibm.com",
+      "serialNumber": "C-KNWL987",
+      "firstName": "eJames",
+      "lastName": "Callan",
+      "status": "Active",
+      "roleCode": "Admin",
+      "role": "Administrator"
+    },
+    {
+      "id": 2,
+      "userId": 102,
+      "emailAddress": "schmidd@us.ibm.com",
+      "serialNumber": "5G5823897",
+      "firstName": "David",
+      "lastName": "Schmid",
+      "status": "Active",
+      "roleCode": "Basic",
+      "role": "Basic User"
+    },
+    {
+      "id": 3,
+      "userId": 103,
+      "emailAddress": "nrohilla@us.ibm.com",
+      "serialNumber": "5G5802897",
+      "firstName": "Neeraj",
+      "lastName": "Rohilla",
+      "status": "Active",
+      "roleCode": "SPE",
+      "role": "Strategic Project Executive"
+    },
+    {
+      "id": 4,
+      "userId": null,
+      "serialNumber": null,
+      "lastName": "test",
+      "firstName": "test",
+      "emailAddress": "test@us.ibm",
+      "role": "Basic User",
+      "roleCode": null,
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "userId": null,
+      "serialNumber": null,
+      "lastName": "test",
+      "firstName": "test",
+      "emailAddress": "test@us.ibm",
+      "role": "Basic User",
+      "roleCode": null,
+      "status": "Active"
+    }
+  ],
+  "AppUserRoles": [
+    {
+      "roleCode": "Admin",
+      "name": "Administrator",
+      "description": "Administrative access to all capabilities within the system",
+      "capabilities": [
+        {
+          "capabilityId": 1
+        },
+        {
+          "capabilityId": 2
+        },
+        {
+          "capabilityId": 3
+        }
+      ]
+    },
+    {
+      "roleCode": "Basic",
+      "name": "Basic User",
+      "description": "Can access all reports and view all data",
+      "capabilities": [
+        {
+          "capabilityId": 11
+        },
+        {
+          "capabilityId": 12
+        },
+        {
+          "capabilityId": 23
+        }
+      ]
+    },
+    {
+      "roleCode": "SPE",
+      "name": "Strategic Project Executive",
+      "description": "Can access all project executive functions and approve bills ",
+      "capabilities": [
+        {
+          "capabilityId": 138
+        },
+        {
+          "capabilityId": 46
+        },
+        {
+          "capabilityId": 73
+        }
+      ]
+    }
+  ],
+  "user-roles": [
+    {
+      "id": 1,
+      "roleId": 101,
+      "roleCode": "Admin",
+      "name": "Administrator",
+      "description": "Administrative access to all capabilities within the system",
+      "capabilities": [
+        {
+          "capabilityId": 1
+        },
+        {
+          "capabilityId": 2
+        },
+        {
+          "capabilityId": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "roleId": 102,
+      "roleCode": "Basic",
+      "name": "Basic User",
+      "description": "Can access all reports and view all data",
+      "capabilities": [
+        {
+          "capabilityId": 11
+        },
+        {
+          "capabilityId": 12
+        },
+        {
+          "capabilityId": 23
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "roleId": 103,
+      "roleCode": "SPE",
+      "name": "Strategic Project Executive",
+      "description": "Can access all project executive functions and approve bills",
+      "capabilities": [
+        {
+          "capabilityId": 138
+        },
+        {
+          "capabilityId": 46
+        },
+        {
+          "capabilityId": 73
+        }
+      ]
+    }
+  ],
+  "user-requests": [
+    {
+      "id": 1,
+      "accessRequestId": 1,
+      "requestStatus": "PendingApproval",
+      "accessRequested": "Need to be able to run reports and view client information.",
+      "accessBusinessJustification": "This user's role within the organization requires that he have access to MRDB reports in order to perform project work on behalf of clients.",
+      "userFirstName": "Cindy",
+      "userLastName": "Sue",
+      "userEmailAddress": "csue@us.ibm.com",
+      "userIbmSerialNumber": null,
+      "supervisorFirstName": "Disk",
+      "supervisorLastName": "Disson",
+      "supervisorEmailAddress": "ddisson@us.ibm.com",
+      "supervisorApproved": true,
+      "supervisorBusinessJustification": "Sue is an operations manager and requires MRDB access to provide reporting internally.",
+      "approverUserId": 103,
+      "approverFirstName": "Phil",
+      "approverLastName": "Schmidt",
+      "approverEmailAddress": "pschmidt@us.ibm.com",
+      "approved": false,
+      "approvalBusinessJustification": ""
+    },
+    {
+      "id": 2,
+      "accessRequestId": 2,
+      "requestedDate": "2017-08-10T04:00:00.000Z",
+      "neededByDate": "2017-08-12T04:00:00.000Z",
+      "requestStatus": null,
+      "requestorFirstName": "james",
+      "requestorLastName": "callan",
+      "requestorEmailAddress": "callanj@us.ibm.com",
+      "accessRequested": null,
+      "accessBusinessJustification": "testing",
+      "userFirstName": "test",
+      "userLastName": "test",
+      "userEmailAddress": "test@us.ibm.com",
+      "supervisorFirstName": null,
+      "supervisorLastName": null,
+      "supervisorEmailAddress": null,
+      "supervisorApproved": null,
+      "supervisorBusinessJustification": null,
+      "approverUserId": null,
+      "approverFirstName": null,
+      "approverLastName": null,
+      "approverEmailAddress": null,
+      "approved": null,
+      "approvalBusinessJustification": null
+    },
+    {
+      "id": 3,
+      "accessRequestId": 3,
+      "requestStatus": "PendingApproval",
+      "accessRequested": "Need to be able to run reports and view client information.",
+      "accessBusinessJustification": "This user's role within the organization requires that he have access to MRDB reports in order to perform project work on behalf of clients.",
+      "userFirstName": "Cindy",
+      "userLastName": "Sue",
+      "userEmailAddress": "csue@us.ibm.com",
+      "userIbmSerialNumber": null,
+      "supervisorFirstName": "Disk",
+      "supervisorLastName": "Disson",
+      "supervisorEmailAddress": "ddisson@us.ibm.com",
+      "supervisorApproved": true,
+      "supervisorBusinessJustification": "Sue is an operations manager and requires MRDB access to provide reporting internally.",
+      "approverUserId": 103,
+      "approverFirstName": "Phil",
+      "approverLastName": "Schmidt",
+      "approverEmailAddress": "pschmidt@us.ibm.com",
+      "approved": false,
+      "approvalBusinessJustification": ""
+    },
+    {
+      "id": 4,
+      "accessRequestId": 4,
+      "requestStatus": "PendingApproval",
+      "accessRequested": "Need to be able to run reports and view client information.",
+      "accessBusinessJustification": "This user's role within the organization requires that he have access to MRDB reports in order to perform project work on behalf of clients.",
+      "userFirstName": "Cindy",
+      "userLastName": "Sue",
+      "userEmailAddress": "csue@us.ibm.com",
+      "userIbmSerialNumber": null,
+      "supervisorFirstName": "Disk",
+      "supervisorLastName": "Disson",
+      "supervisorEmailAddress": "ddisson@us.ibm.com",
+      "supervisorApproved": true,
+      "supervisorBusinessJustification": "Sue is an operations manager and requires MRDB access to provide reporting internally.",
+      "approverUserId": 103,
+      "approverFirstName": "Phil",
+      "approverLastName": "Schmidt",
+      "approverEmailAddress": "pschmidt@us.ibm.com",
+      "approved": false,
+      "approvalBusinessJustification": ""
+    },
+    {
+      "id": 5,
+      "accessRequestId": 5,
+      "requestStatus": "PendingApproval",
+      "accessRequested": "Need to be able to run reports and view client information.",
+      "accessBusinessJustification": "This user's role within the organization requires that he have access to MRDB reports in order to perform project work on behalf of clients.",
+      "userFirstName": "Cindy",
+      "userLastName": "Sue",
+      "userEmailAddress": "csue@us.ibm.com",
+      "userIbmSerialNumber": null,
+      "supervisorFirstName": "Disk",
+      "supervisorLastName": "Disson",
+      "supervisorEmailAddress": "ddisson@us.ibm.com",
+      "supervisorApproved": true,
+      "supervisorBusinessJustification": "Sue is an operations manager and requires MRDB access to provide reporting internally.",
+      "approverUserId": 103,
+      "approverFirstName": "Phil",
+      "approverLastName": "Schmidt",
+      "approverEmailAddress": "pschmidt@us.ibm.com",
+      "approved": false,
+      "approvalBusinessJustification": ""
+    },
+    {
+      "id": 6,
+      "accessRequestId": 6,
+      "requestStatus": "PendingApproval",
+      "accessRequested": "Need to be able to run reports and view client information.",
+      "accessBusinessJustification": "This user's role within the organization requires that he have access to MRDB reports in order to perform project work on behalf of clients.",
+      "userFirstName": "Cindy",
+      "userLastName": "Sue",
+      "userEmailAddress": "csue@us.ibm.com",
+      "userIbmSerialNumber": null,
+      "supervisorFirstName": "Disk",
+      "supervisorLastName": "Disson",
+      "supervisorEmailAddress": "ddisson@us.ibm.com",
+      "supervisorApproved": true,
+      "supervisorBusinessJustification": "Sue is an operations manager and requires MRDB access to provide reporting internally.",
+      "approverUserId": 103,
+      "approverFirstName": "Phil",
+      "approverLastName": "Schmidt",
+      "approverEmailAddress": "pschmidt@us.ibm.com",
+      "approved": false,
+      "approvalBusinessJustification": ""
+    },
+    {
+      "id": 7,
+      "accessRequestId": 7,
+      "requestStatus": "PendingApproval",
+      "accessRequested": "Need to be able to run reports and view client information.",
+      "accessBusinessJustification": "This user's role within the organization requires that he have access to MRDB reports in order to perform project work on behalf of clients.",
+      "userFirstName": "Cindy",
+      "userLastName": "Sue",
+      "userEmailAddress": "csue@us.ibm.com",
+      "userIbmSerialNumber": null,
+      "supervisorFirstName": "Disk",
+      "supervisorLastName": "Disson",
+      "supervisorEmailAddress": "ddisson@us.ibm.com",
+      "supervisorApproved": true,
+      "supervisorBusinessJustification": "Sue is an operations manager and requires MRDB access to provide reporting internally.",
+      "approverUserId": 103,
+      "approverFirstName": "Phil",
+      "approverLastName": "Schmidt",
+      "approverEmailAddress": "pschmidt@us.ibm.com",
+      "approved": false,
+      "approvalBusinessJustification": ""
+    },
+    {
+      "id": 8,
+      "accessRequestId": 8,
+      "requestStatus": "PendingApproval",
+      "accessRequested": "Need to be able to run reports and view client information.",
+      "accessBusinessJustification": "This user's role within the organization requires that he have access to MRDB reports in order to perform project work on behalf of clients.",
+      "userFirstName": "Cindy",
+      "userLastName": "Sue",
+      "userEmailAddress": "csue@us.ibm.com",
+      "userIbmSerialNumber": null,
+      "supervisorFirstName": "Disk",
+      "supervisorLastName": "Disson",
+      "supervisorEmailAddress": "ddisson@us.ibm.com",
+      "supervisorApproved": true,
+      "supervisorBusinessJustification": "Sue is an operations manager and requires MRDB access to provide reporting internally.",
+      "approverUserId": 103,
+      "approverFirstName": "Phil",
+      "approverLastName": "Schmidt",
+      "approverEmailAddress": "pschmidt@us.ibm.com",
+      "approved": false,
+      "approvalBusinessJustification": ""
+    },
+    {
+      "id": 9,
+      "accessRequestId": 9,
+      "requestStatus": "PendingApproval",
+      "accessRequested": "Need to be able to run reports and view client information.",
+      "accessBusinessJustification": "This user's role within the organization requires that he have access to MRDB reports in order to perform project work on behalf of clients.",
+      "userFirstName": "Cindy",
+      "userLastName": "Sue",
+      "userEmailAddress": "csue@us.ibm.com",
+      "userIbmSerialNumber": null,
+      "supervisorFirstName": "Disk",
+      "supervisorLastName": "Disson",
+      "supervisorEmailAddress": "ddisson@us.ibm.com",
+      "supervisorApproved": true,
+      "supervisorBusinessJustification": "Sue is an operations manager and requires MRDB access to provide reporting internally.",
+      "approverUserId": 103,
+      "approverFirstName": "Phil",
+      "approverLastName": "Schmidt",
+      "approverEmailAddress": "pschmidt@us.ibm.com",
+      "approved": false,
+      "approvalBusinessJustification": ""
+    }
+  ],
+  "phases": [
+    {
+      "saveValue": "RFS<500",
+      "displayValue": "RFS (<$500k)",
+      "description": "RFS (<$500k)",
+      "sortOrder": 1,
+      "active": true
+    },
+    {
+      "saveValue": "RFS>500",
+      "displayValue": "RFS (>$500k)",
+      "description": "RFS (>$500k)",
+      "sortOrder": 2,
+      "active": true
+    },
+    {
+      "saveValue": "SteadyState",
+      "displayValue": "Steady State",
+      "description": "Steady State",
+      "sortOrder": 3,
+      "active": true
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "US",
+      "revenueCountry": "US",
+      "ibmCompanyCode": "897/IBM",
+      "description": "United States",
+      "sortOrder": 1,
+      "active": true
+    },
+    {
+      "countryCode": "GB",
+      "revenueCountry": "UK",
+      "ibmCompanyCode": "866/IBM",
+      "description": "United Kingdom",
+      "sortOrder": 2,
+      "active": true
+    },
+    {
+      "countryCode": "NL",
+      "revenueCountry": "Netherlands",
+      "ibmCompanyCode": "788/IBM",
+      "description": "The Netherlands",
+      "sortOrder": 3,
+      "active": true
+    }
+  ],
+  "billing-allocations": [
+    {
+      "id": 1,
+      "allocationId": 1,
+      "clientId": 9,
+      "clientName": "LaLa",
+      "ibmContractNumber": "0037431",
+      "cftsContractNumber": "CFTWZVR",
+      "countryCode": "US",
+      "revenueCountry": "US",
+      "ibmCompanyCode": "897/IBM",
+      "workNumber": "WCKMU",
+      "phaseSaveValue": "SteadyState",
+      "phase": "Steady State",
+      "description": "Accenture APS Ariba Steady State",
+      "taxGroup": "",
+      "taxBusinessJustification": ""
+    },
+    {
+      "id": 2,
+      "allocationId": 2,
+      "clientId": 3,
+      "clientName": "Wood Mackenzie Limited",
+      "ibmContractNumber": "350959",
+      "cftsContractNumber": "GB00156505",
+      "countryCode": "GB",
+      "revenueCountry": "UK",
+      "ibmCompanyCode": "866/IBM",
+      "workNumber": "CLONE1",
+      "phaseSaveValue": "RFS<500",
+      "phase": "RFS (<$500k)",
+      "description": "Ball Rexam Mgd Hosting Steady State (15325)",
+      "taxGroup": "GB00156505",
+      "taxBusinessJustification": "Client requested all projects tied to contract 15325 be consolidated in same invoice"
+    },
+    {
+      "id": 3,
+      "allocationId": 3,
+      "clientId": 5,
+      "clientName": "Five Star Quality Care, Inc.",
+      "ibmContractNumber": "555510",
+      "cftsContractNumber": "NL00123562",
+      "countryCode": "NL",
+      "revenueCountry": "Netherlands",
+      "ibmCompanyCode": "788/IBM",
+      "workNumber": "NC80745",
+      "phaseSaveValue": "RFS>500",
+      "phase": "RFS (>$500k)",
+      "description": "Berry Plastics Oracle Steady State",
+      "taxGroup": "",
+      "taxBusinessJustification": ""
+    },
+    {
+      "id": 4,
+      "allocationId": null,
+      "clientId": 5,
+      "clientName": "Five Star Quality Care, Inc.",
+      "ibmContractNumber": "1147820",
+      "cftsContractNumber": "CFTW43R",
+      "countryCode": null,
+      "revenueCountry": "US",
+      "ibmCompanyCode": "897/IBM",
+      "workNumber": "WC1RU",
+      "phaseSaveValue": "SteadyState",
+      "phase": "Steady State",
+      "description": "BAC US Infastructure - Steady State",
+      "taxGroup": null,
+      "taxBusinessJustification": null
+    },
+    {
+      "id": 5,
+      "allocationId": null,
+      "clientId": 6,
+      "clientName": "Wellness & Prevention, Inc. (fka HealthMedia)",
+      "ibmContractNumber": "444437",
+      "cftsContractNumber": "NL00123571",
+      "countryCode": null,
+      "revenueCountry": "Netherlands",
+      "ibmCompanyCode": "788/IBM",
+      "workNumber": "NC80757",
+      "phaseSaveValue": "SteadyState",
+      "phase": "Steady State",
+      "description": "VWR SAP (Intl) - Steady State",
+      "taxGroup": null,
+      "taxBusinessJustification": null
+    },
+    {
+      "id": 6,
+      "allocationId": 1,
+      "clientId": 6,
+      "clientName": "Wellness & Prevention, Inc. (fka HealthMedia)",
+      "ibmContractNumber": "0037431",
+      "cftsContractNumber": "CFTWZVR",
+      "countryCode": "US",
+      "revenueCountry": "US",
+      "ibmCompanyCode": "897/IBM",
+      "workNumber": "WCKMU",
+      "phaseSaveValue": "SteadyState",
+      "phase": "Steady State",
+      "description": "Accenture APS Ariba Steady State",
+      "taxGroup": "",
+      "taxBusinessJustification": ""
+    },
+    {
+      "id": 7,
+      "allocationId": 1,
+      "clientId": 2,
+      "clientName": "Wood Mackenzie Limited",
+      "ibmContractNumber": "0037431",
+      "cftsContractNumber": "CFTWZVR",
+      "countryCode": "US",
+      "revenueCountry": "US",
+      "ibmCompanyCode": "897/IBM",
+      "workNumber": "WCKMU",
+      "phaseSaveValue": "SteadyState",
+      "phase": "Steady State",
+      "description": "Accenture APS Ariba Steady State",
+      "taxGroup": "",
+      "taxBusinessJustification": ""
+    },
+    {
+      "id": 8,
+      "allocationId": null,
+      "clientId": 2,
+      "clientName": "Sapient Corporation",
+      "ibmContractNumber": "975310",
+      "cftsContractNumber": "CFTS001",
+      "countryCode": null,
+      "revenueCountry": "US",
+      "ibmCompanyCode": "897/IBM",
+      "workNumber": "WRK001",
+      "phaseSaveValue": "SteadyState",
+      "phase": "Steady State",
+      "description": "Test Description",
+      "taxGroup": "Tax Group field",
+      "taxBusinessJustification": "Business Justification test"
+    },
+    {
+      "id": 9,
+      "allocationId": 1,
+      "clientId": 9,
+      "clientName": "LaLa",
+      "ibmContractNumber": "0037431",
+      "cftsContractNumber": "CFTWZVR",
+      "countryCode": "US",
+      "revenueCountry": "US",
+      "ibmCompanyCode": "897/IBM",
+      "workNumber": "WCKMU",
+      "phaseSaveValue": "SteadyState",
+      "phase": "Steady State",
+      "description": "Accenture APS Ariba Steady State",
+      "taxGroup": "",
+      "taxBusinessJustification": "LaLa - Steady state Clone1"
+    },
+    {
+      "id": 10,
+      "allocationId": null,
+      "clientId": 2,
+      "clientName": "Sapient Corporation",
+      "ibmContractNumber": "3456",
+      "cftsContractNumber": "CFTS3456",
+      "countryCode": null,
+      "revenueCountry": "US",
+      "ibmCompanyCode": "897/IBM",
+      "workNumber": "WRK3456",
+      "phaseSaveValue": "SteadyState",
+      "phase": "Steady State",
+      "description": null,
+      "taxGroup": null,
+      "taxBusinessJustification": null
+    }
+  ],
+  "purchase-orders": [
+    {
+      "id": 1,
+      "purchaseOrderId": 1,
+      "allocationId": 4,
+      "clientId": 5,
+      "scheduleId": 100,
+      "name": "Five Star Quality Care, Inc.",
+      "scheduleNumber": "22-SC",
+      "ibmContractNumber": "1147820",
+      "workNumber": "WC1RU",
+      "purchaseOrderNumber": "3209809",
+      "effectiveDate": "2017-08-01",
+      "endDate": "",
+      "businessJustification": "Client provided purchase order for use for second quarter."
+    },
+    {
+      "id": 2,
+      "purchaseOrderId": 2,
+      "allocationId": 19,
+      "clientId": 3,
+      "scheduleId": 219,
+      "name": "Wood Mackenzie Limited",
+      "scheduleNumber": "1591-MA-1-B0",
+      "ibmContractNumber": "555510",
+      "workNumber": "NC80745",
+      "purchaseOrderNumber": "SAP-92726",
+      "effectiveDate": "2017-08-12",
+      "endDate": "2017-10-31",
+      "businessJustification": "PO provided during renewal."
+    },
+    {
+      "id": 3,
+      "purchaseOrderId": 3,
+      "allocationId": 12,
+      "clientId": 2,
+      "scheduleId": 308,
+      "name": "Sapient Corporation",
+      "scheduleNumber": "1604-PS-1-B0",
+      "ibmContractNumber": "444437",
+      "workNumber": "NC80757",
+      "purchaseOrderNumber": "2677100288188",
+      "effectiveDate": "2017-09-01",
+      "endDate": "",
+      "businessJustification": "All new business must use new PO, effective in Sept."
+    }
+  ],
+  "schedule": [
+    {
+      "id": 100,
+      "clientId": 5,
+      "masterContractId": 5,
+      "scheduleNumber": "22-SC",
+      "previousScheduleId": 50,
+      "baseSchedule": true,
+      "scheduleType": "",
+      "effectiveDate": "2020-04-30T17:30:00.000Z",
+      "closeDate": "2020-04-30T17:30:00.000Z",
+      "expirationDate": "",
+      "cancelDate": "",
+      "status": "Active",
+      "portfolio": "Communications",
+      "productGroup": "Hosting",
+      "renewalDetail": {
+        "onMonthToMonthRenewal": false,
+        "renewalTerm": "",
+        "renewalNoticePeriod": ""
+      },
+      "terminationDetail": {
+        "terminationReason": "",
+        "terminationClause": ""
+      },
+      "disasterRecoveryDetail": {
+        "disasterRecoveryCommitment": "",
+        "disasterRecoveryTimeframe": "",
+        "disasterRecoveryComment": ""
+      },
+      "contractHolder": "IBM",
+      "bccGroup": "PeopleSoft",
+      "additionalClauseComments": "",
+      "billingDetail": {
+        "manualBilling": false,
+        "splitBilling": false,
+        "attExcludeDefault": false
+      }
+    },
+    {
+      "id": 101,
+      "clientId": 5,
+      "masterContractId": 6,
+      "scheduleNumber": "22-SC1",
+      "previousScheduleId": 50,
+      "baseSchedule": false,
+      "scheduleType": "SOW",
+      "effectiveDate": "2020-04-30T17:30:00.000Z",
+      "closeDate": "2020-04-30T17:30:00.000Z",
+      "expirationDate": "",
+      "cancelDate": "",
+      "status": "Active",
+      "portfolio": "Communications",
+      "productGroup": "Microsoft",
+      "renewalDetail": {
+        "onMonthToMonthRenewal": false,
+        "renewalTerm": "",
+        "renewalNoticePeriod": ""
+      },
+      "terminationDetail": {
+        "terminationReason": "",
+        "terminationClause": ""
+      },
+      "disasterRecoveryDetail": {
+        "disasterRecoveryCommitment": "",
+        "disasterRecoveryTimeframe": "",
+        "disasterRecoveryComment": ""
+      },
+      "contractHolder": "IBM",
+      "bccGroup": "Managed Hosting",
+      "additionalClauseComments": "",
+      "billingDetail": {
+        "manualBilling": false,
+        "splitBilling": false,
+        "attExcludeDefault": false
+      }
+    },
+    {
+      "id": 102,
+      "clientId": 5,
+      "masterContractId": 7,
+      "scheduleNumber": "22-SC2",
+      "previousScheduleId": 50,
+      "baseSchedule": false,
+      "scheduleType": "SOW",
+      "effectiveDate": "2020-04-30T17:30:00.000Z",
+      "closeDate": "2020-04-30T17:30:00.000Z",
+      "expirationDate": "",
+      "cancelDate": "",
+      "status": "Active",
+      "portfolio": "Communications",
+      "productGroup": "Microsoft",
+      "renewalDetail": {
+        "onMonthToMonthRenewal": false,
+        "renewalTerm": "",
+        "renewalNoticePeriod": ""
+      },
+      "terminationDetail": {
+        "terminationReason": "",
+        "terminationClause": ""
+      },
+      "disasterRecoveryDetail": {
+        "disasterRecoveryCommitment": "",
+        "disasterRecoveryTimeframe": "",
+        "disasterRecoveryComment": ""
+      },
+      "contractHolder": "IBM",
+      "bccGroup": "Managed Hosting",
+      "additionalClauseComments": "",
+      "billingDetail": {
+        "manualBilling": false,
+        "splitBilling": false,
+        "attExcludeDefault": false
+      }
+    },
+    {
+      "id": 103,
+      "clientId": 5,
+      "masterContractId": 8,
+      "scheduleNumber": "22-SC3",
+      "previousScheduleId": 50,
+      "baseSchedule": true,
+      "scheduleType": "",
+      "effectiveDate": "2020-04-30T17:30:00.000Z",
+      "closeDate": "2020-04-30T17:30:00.000Z",
+      "expirationDate": "",
+      "cancelDate": "",
+      "status": "Active",
+      "portfolio": "Communications",
+      "productGroup": "Hosting",
+      "renewalDetail": {
+        "onMonthToMonthRenewal": false,
+        "renewalTerm": "",
+        "renewalNoticePeriod": ""
+      },
+      "terminationDetail": {
+        "terminationReason": "",
+        "terminationClause": ""
+      },
+      "disasterRecoveryDetail": {
+        "disasterRecoveryCommitment": "",
+        "disasterRecoveryTimeframe": "",
+        "disasterRecoveryComment": ""
+      },
+      "contractHolder": "IBM",
+      "bccGroup": "PeopleSoft",
+      "additionalClauseComments": "",
+      "billingDetail": {
+        "manualBilling": false,
+        "splitBilling": false,
+        "attExcludeDefault": false
+      }
+    },
+    {
+      "id": 104,
+      "clientId": 12,
+      "masterContractId": 7,
+      "scheduleNumber": "22-SC1",
+      "previousScheduleId": 50,
+      "baseSchedule": true,
+      "scheduleType": "LOA",
+      "effectiveDate": "2020-04-30T17:30:00.000Z",
+      "closeDate": "2020-04-30T17:30:00.000Z",
+      "expirationDate": "",
+      "cancelDate": "",
+      "status": "Active",
+      "portfolio": "Communications",
+      "productGroup": "SAP",
+      "renewalDetail": {
+        "onMonthToMonthRenewal": false,
+        "renewalTerm": "",
+        "renewalNoticePeriod": ""
+      },
+      "terminationDetail": {
+        "terminationReason": "",
+        "terminationClause": ""
+      },
+      "disasterRecoveryDetail": {
+        "disasterRecoveryCommitment": "",
+        "disasterRecoveryTimeframe": "",
+        "disasterRecoveryComment": ""
+      },
+      "contractHolder": "IBM",
+      "bccGroup": "SAP",
+      "additionalClauseComments": "",
+      "billingDetail": {
+        "manualBilling": false,
+        "splitBilling": false,
+        "attExcludeDefault": false
+      }
+    }
+  ],
+  "client-aliases": [
+    {
+      "id": 1,
+      "clientAliasId": 1,
+      "clientId": 180,
+      "aliasName": "Kinko's, Inc."
+    },
+    {
+      "id": 2,
+      "clientAliasId": 2,
+      "clientId": 180,
+      "aliasName": "FEDEX Kinko's Office and Print "
+    },
+    {
+      "id": 3,
+      "clientAliasId": 3,
+      "clientId": 180,
+      "aliasName": "Quma Corporation"
+    },
+    {
+      "id": 4,
+      "clientAliasId": null,
+      "clientId": 180,
+      "aliasName": "test"
+    }
+  ],
+  "client-notes": [
+    {
+      "id": 1,
+      "clientNoteId": 1,
+      "clientId": 180,
+      "creatingUserId": 1,
+      "creatingUsername": "James Callan",
+      "clientNote": "This is a n",
+      "creationTime": "2017-09-01T15:42:24.748Z"
+    },
+    {
+      "id": 2,
+      "clientNoteId": 2,
+      "clientId": 180,
+      "creatingUserId": 2,
+      "creatingUsername": "David Schmid",
+      "clientNote": "This is another note",
+      "creationTime": "2021-06-12T17:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "clientNoteId": null,
+      "clientId": null,
+      "creatingUserId": null,
+      "creatingUsername": null,
+      "clientNote": "test 1",
+      "creationTime": "2017-09-01T17:36:33.449Z"
+    },
+    {
+      "id": 4,
+      "clientNoteId": null,
+      "clientId": 180,
+      "creatingUserId": null,
+      "creatingUsername": null,
+      "clientNote": "test 1",
+      "creationTime": "2017-09-01T17:37:58.303Z"
+    },
+    {
+      "id": 5,
+      "clientNoteId": null,
+      "clientId": 180,
+      "creatingUserId": null,
+      "creatingUsername": null,
+      "clientNote": "test",
+      "creationTime": "2017-09-01T17:47:18.347Z"
+    },
+    {
+      "id": 6,
+      "clientNoteId": null,
+      "clientId": null,
+      "creatingUserId": null,
+      "creatingUsername": null,
+      "clientNote": "test",
+      "creationTime": "2017-09-06T15:09:25.115Z"
+    }
+  ],
+  "masterContract-audit": [
+    {
+      "id": 1,
+      "masterAuditId": 1,
+      "masterContractId": 1360,
+      "clientId": 180,
+      "creatingUserId": 1,
+      "creatingUsername": "James Callan",
+      "clientNote": "This is a n",
+      "creationTime": "2017-09-01T15:42:24.748Z",
+      "auditType": "HIPAA",
+      "auditTypeSaveValue": "HIPAA",
+      "notes": "Signed EUMC with IBM."
+    },
+    {
+      "id": 2,
+      "masterAuditId": 2,
+      "masterContractId": 1360,
+      "clientId": 180,
+      "creatingUserId": 2,
+      "creatingUsername": "David Schmid",
+      "clientNote": "This is another note",
+      "creationTime": "2021-06-12T17:30:00.000Z",
+      "auditType": "ITARS",
+      "auditTypeSaveValue": "ITARS",
+      "notes": "Supplier Managed Hosting and Applications Services has been audited by a Qualified Security Assessor"
+    },
+    {
+      "id": 3,
+      "masterAuditId": 3,
+      "masterContractId": 1360,
+      "clientId": 180,
+      "creatingUserId": null,
+      "creatingUsername": null,
+      "creationTime": "2017-09-01T17:36:33.449Z",
+      "auditType": "PCI",
+      "auditTypeSaveValue": "PCI",
+      "notes": "Supplier will seek an annual audit by a QSA to determine whether Managed Hosting and Applications Services"
+    },
+    {
+      "id": 5,
+      "masterAuditId": null,
+      "masterContractId": 1360,
+      "clientId": null,
+      "auditType": "ITARS",
+      "auditTypeSaveValue": "ITARS",
+      "creatingUserId": null,
+      "creatingUsername": null,
+      "notes": "testing compliances"
+    }
+  ],
+  "auditType": [
+    {
+      "saveValue": "HIPAA",
+      "displayValue": "HIPAA",
+      "description": "HIPAA",
+      "sortOrder": 1,
+      "active": true
+    },
+    {
+      "saveValue": "ITARS",
+      "displayValue": "ITARS",
+      "description": "ITARS",
+      "sortOrder": 2,
+      "active": true
+    },
+    {
+      "saveValue": "PCI",
+      "displayValue": "PCI",
+      "description": "PCI",
+      "sortOrder": 3,
+      "active": true
+    },
+    {
+      "saveValue": "EU Model Clause Agreement",
+      "displayValue": "EU Model Clause Agreement",
+      "description": "EU Model Clause Agreement",
+      "sortOrder": 4,
+      "active": true
+    }
+  ],
+  "masterContract-notes": [
+    {
+      "id": 1,
+      "masterContractNoteId": 1,
+      "masterContractId": 1360,
+      "clientId": 180,
+      "creatingUserId": 1,
+      "creatingUsername": "James Callan",
+      "masterContractNote": "This is a n",
+      "creationTime": "2017-09-01T15:42:24.748Z"
+    },
+    {
+      "id": 2,
+      "masterContractNoteId": 2,
+      "masterContractId": 1360,
+      "clientId": 180,
+      "creatingUserId": 2,
+      "creatingUsername": "David Schmid",
+      "masterContractNote": "This is another note",
+      "creationTime": "2021-06-12T17:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "masterContractNoteId": null,
+      "masterContractId": 1360,
+      "clientId": null,
+      "creatingUserId": null,
+      "creatingUsername": null,
+      "masterContractNote": "test1",
+      "creationTime": "2017-09-07T19:20:51.186Z"
+    }
+  ]
+}
