@@ -2,7 +2,11 @@
   "clients1": [
     {
       "id": 2,
+<<<<<<< Updated upstream
       "name": "Sapient Corporation2",
+=======
+      "name": "Sapient Corporation3",
+>>>>>>> Stashed changes
       "clientNumber": 180,
       "addressLineOne": "7131 Dartmouth Street",
       "addressLineTwo": "",
